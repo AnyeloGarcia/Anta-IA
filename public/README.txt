@@ -1,0 +1,1 @@
+Este proyecto contiene el prototipo de la app Anta IA. Sube este proyecto a Vercel o consulta a TI para publicarlo.
